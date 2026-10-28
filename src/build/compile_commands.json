@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/minakani/homework/src/build",
+  "command": "/usr/bin/c++  -I/home/minakani/homework/src/../include -g -std=gnu++17 -o CMakeFiles/projectile.dir/main.cpp.o -c /home/minakani/homework/src/main.cpp",
+  "file": "/home/minakani/homework/src/main.cpp"
+},
+{
+  "directory": "/home/minakani/homework/src/build",
+  "command": "/usr/bin/c++  -I/home/minakani/homework/src/../include -g -std=gnu++17 -o CMakeFiles/projectile.dir/Angle.cpp.o -c /home/minakani/homework/src/Angle.cpp",
+  "file": "/home/minakani/homework/src/Angle.cpp"
+}
+]

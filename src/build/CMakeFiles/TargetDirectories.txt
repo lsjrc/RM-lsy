@@ -1,0 +1,3 @@
+/home/minakani/homework/src/build/CMakeFiles/projectile.dir
+/home/minakani/homework/src/build/CMakeFiles/edit_cache.dir
+/home/minakani/homework/src/build/CMakeFiles/rebuild_cache.dir
